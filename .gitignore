@@ -3,9 +3,8 @@
 node_modules/
 vue/node_modules/
 vue/dist/
-ve/
+vue/webpack-stats.json
 app/__pycache__/
-
 
 npm-debug.log
 yarn-error.log
